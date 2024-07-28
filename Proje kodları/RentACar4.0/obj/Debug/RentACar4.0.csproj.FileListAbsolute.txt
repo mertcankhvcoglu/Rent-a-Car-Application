@@ -1,0 +1,17 @@
+C:\Users\mertc\source\repos\RentACar4.0\RentACar4.0\bin\Debug\RentACar4.0.exe.config
+C:\Users\mertc\source\repos\RentACar4.0\RentACar4.0\bin\Debug\RentACar4.0.exe
+C:\Users\mertc\source\repos\RentACar4.0\RentACar4.0\bin\Debug\RentACar4.0.pdb
+C:\Users\mertc\source\repos\RentACar4.0\RentACar4.0\obj\Debug\RentACar4.0.csproj.AssemblyReference.cache
+C:\Users\mertc\source\repos\RentACar4.0\RentACar4.0\obj\Debug\RentACar4.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\mertc\source\repos\RentACar4.0\RentACar4.0\obj\Debug\RentACar4._0.frmAnaSayfa.resources
+C:\Users\mertc\source\repos\RentACar4.0\RentACar4.0\obj\Debug\RentACar4._0.frmMusteriEkle.resources
+C:\Users\mertc\source\repos\RentACar4.0\RentACar4.0\obj\Debug\RentACar4._0.Properties.Resources.resources
+C:\Users\mertc\source\repos\RentACar4.0\RentACar4.0\obj\Debug\RentACar4.0.csproj.GenerateResource.cache
+C:\Users\mertc\source\repos\RentACar4.0\RentACar4.0\obj\Debug\RentACar4.0.csproj.CoreCompileInputs.cache
+C:\Users\mertc\source\repos\RentACar4.0\RentACar4.0\obj\Debug\RentACar4.0.exe
+C:\Users\mertc\source\repos\RentACar4.0\RentACar4.0\obj\Debug\RentACar4.0.pdb
+C:\Users\mertc\source\repos\RentACar4.0\RentACar4.0\obj\Debug\RentACar4._0.frmMusteriListele.resources
+C:\Users\mertc\source\repos\RentACar4.0\RentACar4.0\obj\Debug\RentACar4._0.frmAracKayit.resources
+C:\Users\mertc\source\repos\RentACar4.0\RentACar4.0\obj\Debug\RentACar4._0.frmAracListele.resources
+C:\Users\mertc\source\repos\RentACar4.0\RentACar4.0\obj\Debug\RentACar4._0.frmSozlesme.resources
+C:\Users\mertc\source\repos\RentACar4.0\RentACar4.0\obj\Debug\RentACar4._0.frmSatis.resources
